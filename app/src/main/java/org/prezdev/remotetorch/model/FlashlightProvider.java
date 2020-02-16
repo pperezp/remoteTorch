@@ -1,4 +1,4 @@
-package org.prezdev.remotetorch;
+package org.prezdev.remotetorch.model;
 
 import android.content.Context;
 import android.hardware.Camera;
